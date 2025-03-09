@@ -1,1 +1,23 @@
-
+{
+  "timezone": "Asia/Jakarta",
+  "items_per_page": 10,
+  "request_timeout": 30,
+  "max_file_size_mb": 50,
+  "default_language": "id",
+  "languages": {
+    "id": {
+      "start": "📸 Kirim URL profil Instagram untuk melihat:\n- Foto Profil HD\n- Story Terbaru\n- Highlight\n- Info Profil\n\nContoh URL: https://www.instagram.com/nasa/",
+      "invalid_url": "❌ Format URL tidak valid!",
+      "error": "⚠️ Terjadi kesalahan, coba lagi nanti",
+      "private_profile": "🔒 Profil privat - Anda belum follow akun ini",
+      "no_stories": "📭 Tidak ada story yang tersedia"
+    },
+    "en": {
+      "start": "📸 Send an Instagram profile URL to view:\n- HD Profile Picture\n- Latest Stories\n- Highlights\n- Profile Info\n\nExample URL: https://www.instagram.com/nasa/",
+      "invalid_url": "❌ Invalid URL format!",
+      "error": "⚠️ An error occurred, try again later",
+      "private_profile": "🔒 Private profile - You haven't followed this account",
+      "no_stories": "📭 No stories available"
+    }
+  }
+}
